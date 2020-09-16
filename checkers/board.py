@@ -50,3 +50,4 @@ class Board:
         piece = self.board[row][col]
         if piece != 0:
           piece.draw(win)
+  
